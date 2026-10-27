@@ -1,5 +1,8 @@
 # 📊 Relatório Executivo de Performance Financeira & Gestão de Risco
 
+> [!NOTE]
+> **Base de dados 100% fictícia.** Todos os dados deste projeto (valores, departamentos, centros de custo, formas de pagamento e inadimplência) são fictícios, criados exclusivamente para fins de portfólio e demonstração técnica. Não representam nenhuma empresa real, e nenhuma informação confidencial é compartilhada neste repositório.
+
 ## 🎯 Visão Geral do Projeto
 Desenvolvimento de uma suíte executiva de dashboards interativos no Power BI voltada para o suporte à tomada de decisão C-Level (CFOs e Diretores Financeiros). O projeto aborda a jornada completa dos dados: desde a DRE macro, acompanhamento de Orçado x Realizado, até a gestão de custos operacionais (OPEX), formas de pagamento e indicadores de inadimplência.
 
@@ -33,7 +36,7 @@ Desenvolvimento de uma suíte executiva de dashboards interativos no Power BI vo
 * **Geração de Eficiência (Under-budget):** Expressiva economia em **Custos Diretos (-27,38% / -R$ 1,06 Mi)** e **Impostos e Deduções (-27,76% / -R$ 316,1 mil)**, otimizando a margem operacional.
 
 ### 3. Gestão de OPEX, Liquidez & Risco (Página 3)
-* **Estrutura de Custos:** Custos variáveis correspondem a **83,4%** do OPEX Total (R$ 7,14 Mi).
+* **Estrutura de Custos:** Custos fixos correspondem a **83,4%** do OPEX Total (R$ 7,14 Mi).
 * **Canais de Entrada:** Alta concentração em meios instantâneos e de liquidez direta: **Boleto (41,3%)** e **PIX (36,3%)** somam **77,6%** do caixa gerado.
 * **Gestão de Risco:** Taxa média de inadimplência em **7,42%** (R$ 1,42 Mi em atraso), com análise temporal identificando pico crítico em setembro (R$ 259 mil), permitindo ações preventivas de cobrança.
 
@@ -67,7 +70,8 @@ Desenvolvimento de uma suíte executiva de dashboards interativos no Power BI vo
 ---
 
 ## 📌 Nota sobre os Dados
-* O arquivo `.pbix` na pasta `/pbix` já acompanha os dados de exemplo embutidos para visualização imediata. Caso deseje atualizar os registros localmente, utilize a base disponível na pasta `/base`.
+* Todos os dados são **fictícios**, criados para fins de portfólio.
+* O arquivo `.pbix` na pasta `/pbix` já acompanha os dados embutidos para visualização imediata. Caso deseje atualizar os registros localmente, utilize a base disponível na pasta `/base`.
 
 ---
 
